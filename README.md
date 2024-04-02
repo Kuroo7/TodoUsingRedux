@@ -1,17 +1,19 @@
-This Internship assignment is Created by Mohammad Atif Shameem Khan
-it is a todo app where you can add task, delete task, delete all task at once and update task
+This Internship assignment is done by Mohammad Atif Shameem Khan
 
-Redux is used
-Hooks used are UseState,UseEffect
+it is a basic To-Do application using ReactJS that allows users to add, view, update, and delete tasks. This application should showcase your understanding of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
 
-css library used is Bootstrap
+Redux is Used to manage the application's state. This includes storing the tasks and updating the state when adding or removing tasks.
+
+The hooks used are UseState,UseEffect
+
+CSS library used is Bootstrap along with custom CSS
 
 To run this App
-cd into the folder
 
-<!-- Run -->
-npm install
+1. Clone the repository
+2. npm install
+3. npm start
 
-npm start
+
 
 
